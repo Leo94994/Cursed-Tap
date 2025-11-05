@@ -1,0 +1,2 @@
+btn_all_sound.pressed: False
+sldr_music: 0.0
