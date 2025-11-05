@@ -65,7 +65,7 @@ git clone https://github.com/Leo94994/Cursed-Tap
 cd Cursed-Tap
 python3 -m venv venv
 source venv/bin/activate
-pip isntall pygame
+pip install pygame
 python3 main.py
 ```
 
